@@ -10,6 +10,8 @@ This application needs to make the configuration file first. The contents are re
 
 For example, if you installed Chrome using **Homebrew cask**, it would look something like this.
 
+##### `~/.netfri.json`
+
 ```json
 {
   "widevineCDMPath": "/opt/homebrew-cask/Caskroom/google-chrome/latest/Google Chrome.app/Contents/Versions/57.0.2987.98/Google Chrome Framework.framework/Libraries/WidevineCdm/_platform_specific/mac_x64/widevinecdmadapter.plugin",
