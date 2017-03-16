@@ -29,6 +29,10 @@ The icon in the upper right is like this.
 - eye / Adjust opacity
 - hamburger / Show mylist  
   Clicking the poster in the list closes my-list and starts playing that title in the view on the left.
+  
+## Download
+
+From the [release page](https://github.com/nju33/netfri/releases/latest)
 
 ## Build Setup
 
@@ -55,4 +59,4 @@ This project was generated from [electron-vue](https://github.com/SimulatedGREG/
 
 The MIT License (MIT)
 
-Copyright (c) 2016 nju33 <nju33.ki@gmail.com>
+Copyright (c) 2017 nju33 <nju33.ki@gmail.com>
